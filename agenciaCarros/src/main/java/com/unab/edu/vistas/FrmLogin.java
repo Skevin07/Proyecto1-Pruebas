@@ -5,7 +5,7 @@
  */
 package com.unab.edu.vistas;
 
-import com.toedter.calendar.JCalendar;
+import com.unab.edu.conexion.Conexion;
 
 /**
  *
@@ -18,7 +18,8 @@ public class FrmLogin extends javax.swing.JFrame {
      */
     public FrmLogin() {
         initComponents();
-        JCalendar calendario = new JCalendar();
+        Conexion con= new Conexion();
+        con.retornarConexion();
     }
 
     /**

@@ -13,6 +13,7 @@ import lombok.Data;
  */
 @Data
 public class Empleado {
+    private int Id;
     private String Nombre;
     private String Apellido;
     private String Sexo;

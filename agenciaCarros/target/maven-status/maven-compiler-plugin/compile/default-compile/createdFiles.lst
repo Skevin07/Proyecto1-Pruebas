@@ -1,9 +1,12 @@
 com\unab\edu\dao\EmpleadoDao.class
 com\unab\edu\vistas\frmEmpleado$1.class
 com\unab\edu\imagenes\FondoPanel.class
+com\unab\edu\vistas\frmEmpleado$4.class
 com\unab\edu\vistas\FrmLogin.class
 com\unab\edu\entidades\Empleado.class
 com\unab\edu\conexion\Conexion.class
+com\unab\edu\vistas\frmEmpleado$3.class
 com\unab\edu\vistas\frmEmpleado$2.class
+com\unab\edu\vistas\frmEmpleado$5.class
 com\unab\edu\vistas\FrmLogin$1.class
 com\unab\edu\vistas\frmEmpleado.class

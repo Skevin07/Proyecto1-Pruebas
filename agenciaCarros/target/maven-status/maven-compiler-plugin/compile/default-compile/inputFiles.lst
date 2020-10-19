@@ -1,6 +1,9 @@
-C:\Users\Mauricio\Documents\GitHub\Proyecto1\agenciaCarros\src\main\java\com\unab\edu\vistas\FrmLogin.java
-C:\Users\Mauricio\Documents\GitHub\Proyecto1\agenciaCarros\src\main\java\com\unab\edu\conexion\Conexion.java
-C:\Users\Mauricio\Documents\GitHub\Proyecto1\agenciaCarros\src\main\java\com\unab\edu\dao\EmpleadoDao.java
-C:\Users\Mauricio\Documents\GitHub\Proyecto1\agenciaCarros\src\main\java\com\unab\edu\entidades\Empleado.java
-C:\Users\Mauricio\Documents\GitHub\Proyecto1\agenciaCarros\src\main\java\com\unab\edu\vistas\frmEmpleado.java
-C:\Users\Mauricio\Documents\GitHub\Proyecto1\agenciaCarros\src\main\java\com\unab\edu\imagenes\FondoPanel.java
+C:\Users\Roberto\Documents\GitHub\Proyecto1\agenciaCarros\src\main\java\com\unab\edu\vistas\crudModelo.java
+C:\Users\Roberto\Documents\GitHub\Proyecto1\agenciaCarros\src\main\java\com\unab\edu\vistas\crudEmpleado.java
+C:\Users\Roberto\Documents\GitHub\Proyecto1\agenciaCarros\src\main\java\com\unab\edu\conexion\Conexion.java
+C:\Users\Roberto\Documents\GitHub\Proyecto1\agenciaCarros\src\main\java\com\unab\edu\imagenes\FondoPanel.java
+C:\Users\Roberto\Documents\GitHub\Proyecto1\agenciaCarros\src\main\java\com\unab\edu\dao\EmpleadoDao.java
+C:\Users\Roberto\Documents\GitHub\Proyecto1\agenciaCarros\src\main\java\com\unab\edu\vistas\crudUsuario.java
+C:\Users\Roberto\Documents\GitHub\Proyecto1\agenciaCarros\src\main\java\com\unab\edu\vistas\crudMarca.java
+C:\Users\Roberto\Documents\GitHub\Proyecto1\agenciaCarros\src\main\java\com\unab\edu\entidades\Empleado.java
+C:\Users\Roberto\Documents\GitHub\Proyecto1\agenciaCarros\src\main\java\com\unab\edu\vistas\Login.java

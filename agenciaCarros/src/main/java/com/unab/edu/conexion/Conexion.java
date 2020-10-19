@@ -16,7 +16,7 @@ public class Conexion {
     private Connection conexion;
     public Conexion(){
         try {
-            conexion=DriverManager.getConnection("jdbc:mysql://localhost/agenciac","root","root");
+            conexion=DriverManager.getConnection("jdbc:mysql://localhost/agenciac?useTimezone=true&serverTimezone=UTC","root","root");
             System.out.println("Conexion Existosa!");
         } catch (Exception e) {
             System.out.println("No se pudo realizar la Conexion "+e);
